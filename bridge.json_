@@ -1,0 +1,18 @@
+{
+  "db": "",
+  "notifier":
+  {
+    "Telegram":
+    {
+      "chat_id": "",
+      "token": ""
+    }
+  },
+  "monitor":
+  {
+    "Decathlon":
+    {
+      "path": ""
+    }
+  }
+}
